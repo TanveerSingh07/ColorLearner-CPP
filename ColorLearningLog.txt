@@ -1,0 +1,35 @@
+Turn 1: Color = Purple, Response = Incorrect, Difficulty = 0
+
+Turn 2: Color = Yellow, Response = Correct, Difficulty = 0
+
+Turn 3: Color = Green, Response = Correct, Difficulty = 0
+
+Turn 4: Color = Blue, Response = Correct, Difficulty = 0
+
+Turn 5: Color = Pink, Response = Correct, Difficulty = 0
+
+Turn 6: Color = Red, Response = Correct, Difficulty = 0
+
+Turn 7: Color = White, Response = Correct, Difficulty = 0
+
+Turn 8: Color = Orange, Response = Correct, Difficulty = 0
+
+Turn 9: Color = Black, Response = Correct, Difficulty = 0
+
+Turn 10: Color = Brown, Response = Correct, Difficulty = 0
+
+
+Performance Summary:
+Purple: Correct = 0, Incorrect = 1, Difficulty = 1
+Yellow: Correct = 1, Incorrect = 0, Difficulty = 0
+Green: Correct = 1, Incorrect = 0, Difficulty = 0
+Blue: Correct = 1, Incorrect = 0, Difficulty = 0
+Pink: Correct = 1, Incorrect = 0, Difficulty = 0
+Red: Correct = 1, Incorrect = 0, Difficulty = 0
+White: Correct = 1, Incorrect = 0, Difficulty = 0
+Orange: Correct = 1, Incorrect = 0, Difficulty = 0
+Black: Correct = 1, Incorrect = 0, Difficulty = 0
+Brown: Correct = 1, Incorrect = 0, Difficulty = 0
+
+Average Performance (all sessions): 88.8889%
+
