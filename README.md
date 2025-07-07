@@ -43,19 +43,9 @@ These data structures make the code:
 
 g++ ColorLearning.cpp -o colorlearn
 
-markdown
-Copy
-Edit
-
 4. Run it:
 
 ./colorlearn
-
-yaml
-Copy
-Edit
-
-> ✅ Ensure your terminal supports ANSI escape codes (like Windows Terminal or Linux/Mac shell).
 
 ---
 
@@ -94,41 +84,29 @@ What color is this?
 After each session, results are logged in a file: ColorLearningLog.txt
 
 Each turn logs:
-
 Color name
-
 Response (Correct/Incorrect)
-
 Difficulty level
-
 At the end, you’ll see:
-
 Count of correct & incorrect responses for each color
-
 Dynamic difficulty level
-
 Cumulative average performance across all sessions
 
 Example summary:
 
-makefile
-Copy
-Edit
 Red: Correct = 2, Incorrect = 1, Difficulty = 1  
 Blue: Correct = 3, Incorrect = 0, Difficulty = 0  
 ...
 Average performance (all sessions): 83.3%
-📁 File Storage
+
+##📁 File Storage
 All quiz logs are saved to ColorLearningLog.txt
-
 Appends new session data without erasing old logs
-
 Useful for tracking progress over time
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 Language: C++
-
 Concepts: File handling, Data Structures, ANSI Terminal Coloring, Looping, Conditional Logic
 
-📜 License
+##📜 License
 This project is free to use and modify for educational purposes.
