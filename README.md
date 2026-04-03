@@ -100,8 +100,9 @@ Blue: Correct = 3, Incorrect = 0, Difficulty = 0
 Average performance (all sessions): 83.3%
 
 ```
+---
 
-##📁 File Storage
+## 📁 File Storage
 
 All quiz logs are saved to ColorLearningLog.txt
 
@@ -109,12 +110,16 @@ Appends new session data without erasing old logs
 
 Useful for tracking progress over time
 
-##🛠️ Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 Language: C++
 
 Concepts: File handling, Data Structures, ANSI Terminal Coloring, Looping, Conditional Logic
 
-##📜 License
+---
+
+## 📜 License
 
 This project is free to use and modify for educational purposes.
